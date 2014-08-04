@@ -14,4 +14,6 @@ This blog is forked from https://github.com/P233/3-Jekyll
 
 #### Header 4
 
-Another normal text
+
+* Learn further from here http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/
+* And here: http://peiwen.lu/blogging-with-jekyll/
