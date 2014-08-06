@@ -16,7 +16,7 @@ Normal people see things everyday, but do not see the information this thing car
 This technoledgy can extract informations from those object far more than you see/think of them.
 
 
-Why programming is cool?
+Why Programming is cool?
 ===
 
 It takes a lot efforts besides programming to make it really cool. For example, [music](http://www.tudou.com/programs/view/2o_ChSqo984)
